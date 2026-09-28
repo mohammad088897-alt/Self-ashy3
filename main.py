@@ -12,7 +12,7 @@ from splusthon.tl.functions.account import UpdateProfileRequest
 # 🔑 تنظیمات
 # ===============================
 PHONE_NUMBER = "989900254474"
-SESSION_FILE = "session.txt"
+SESSION_FILE = "fon88lsession.txt"
 DOWNLOADS_DIR = "downloads"
 os.makedirs(DOWNLOADS_DIR, exist_ok=True)
 
